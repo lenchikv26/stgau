@@ -1,0 +1,30 @@
+<html>
+  <head>
+    <title>Столовая СТГАУ</title>
+    <link rel="stylesheet" href="style.css"/>
+  </head>
+  <body>
+    <header>
+      <a class="link" href=""><img src="https://i.imgur.com/b949YzV.png" width="150px" height="150px"/></a>
+      <a class="link-header" href="https://stgau.ru/">Главная</a>
+      <a class="link-header" href="">О нас
+      <a class="link-header" href="">Меню
+    </header>
+    <main>
+      <h1>Ставропольский ГАУ</h1>
+      <p class="text-big"><b>Добро пожаловать на сайт столовой СтГАУ!</b></p>
+      <p class="text-big"><b>О нас: Столовая приглашает студентов потрапезничать фирменным меню! В большом зале, выполненном в лучших классических традициях и выдержанных в бело-персиковой цветовой гамме будет очень приятно находиться.  Мягкие кресла, мозаичные панно на стенах, пышные люстры – помещение будто специально для парадных приемов и создано.
+        </b></p>
+      
+       <div id="content">
+       <div><img src="https://leader-id.storage.yandexcloud.net/upload/753347/7ffca2dc-a9fb-41a3-9779-89f7ba918463.jpg" border="0" width="640" height="427"/></div>
+       <div><img src="https://media-cdn.tripadvisor.com/media/photo-s/1a/c7/88/e7/caption.jpg" border="0" width="640" height="427"/></div>
+    </main>
+    <footer>
+
+      <a class="social" href="https://vk.com/stgau1930"><img src="https://i.imgur.com/ZhlVv6I.png" width="100px" height="100px"/></a>
+      <a class="social" href="https://t.me/agrarian_university1930"><img src="https://i.imgur.com/0uaDMJX.png" width="100px" height="100px"/></a>
+      <a class="social" href="https://www.youtube.com/user/stgau26"><img src="https://i.imgur.com/hDaQEPL.png" width="100px" height="100px"/></a>
+    </footer>
+  </body>
+</html>
